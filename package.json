@@ -1,0 +1,16 @@
+{
+  "name": "golang_video_cutter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trim_video.js",
+  "scripts": {
+    "start": "node trim_video.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
